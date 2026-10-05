@@ -49,9 +49,9 @@ Aquí tienes algunos de los proyectos de los que me siento más orgulloso/a:
 
 <!-- REPLAZA "tu-usuario" por tu nombre exacto de GitHub en los siguientes enlaces -->
 <p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://vercel.app" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrFlamas&show_iconse=tokyonight
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?rFlamas&layout=compact&theme=tokyonight
 </p>
 
 ---
