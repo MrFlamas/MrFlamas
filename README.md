@@ -1,64 +1,57 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# Que onda buenas, soy [LEONARDO] 👋
 
 ### 🚀 Sobre mí
-¡Bienvenido/a a mi perfil de GitHub! Soy un/a apasionado/a del desarrollo de software enfocado en crear soluciones eficientes y visualmente atractivas. 
+Practicante Jr en progreso a ser todo un SENIOR.
 
-- 🔭 Actualmente estoy trabajando en **[Tu Proyecto Actual o Empresa]**
-- 🌱 Estoy aprendiendo y profundizando en **[Tecnología que estás estudiando, ej: Next.js o Docker]**
-- 💬 Pregúntame sobre **[Tus temas fuertes, ej: React, Python o CSS]**
-- ⚡ Dato curioso: **[Algo divertido sobre ti, ej: Prefiero el café frío o juego ajedrez]**
+- 🔭 Actualmente estoy trabajando en **[Grupo Kenzitschool]**
+- 🌱 Estoy aprendiendo y profundizando en **[Diseño, implementación, e interfaces web]**
+- 💬 Pregúntame sobre **[Especializado en python, Java, C#, Laravel, MySql]**
+- ⚡ Dato curioso: **[Adaptable a los lenguajes de programación que se me disponga a trabajar ]**
 
 ---
 
 ### 🛠️ Mis Tecnologías y Herramientas
 
 #### **Frontend**
-`HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `React` • `Next.js` • `TailwindCSS`
+`HTML` • `CSS` • `Laravel`
 
 #### **Backend & BD**
-`Node.js` • `Python` • `Java` • `PostgreSQL` • `MongoDB`
+`C#` • `Python` • `Java` • `MySQL` • `C#`
 
 #### **Herramientas & Cloud**
-`Git` • `Docker` • `AWS` • `Linux` • `VS Code`
+`Git` • `Linux` • `VS Code`
 
 ---
 
 ### 💻 Proyectos Destacados
-Aquí tienes algunos de los proyectos de los que me siento más orgulloso/a:
+En mi corta experiencia he logrado culminar con este proyecto en mi empresa y que esta a futuro de ser utilizado:
 
-1. **[Nombre del Proyecto 1]**  
-   * **Descripción:** Una breve línea explicando qué hace el proyecto (ej: Plataforma de comercio electrónico con pasarela de pagos).
-   * **Tecnologías:** `React`, `Node.js`, `MongoDB`
-   * **Enlaces:** [📂 Código](https://github.com) | [🚀 Demo en vivo](https://tu-sitio-web.com)
-
-2. **[Nombre del Proyecto 2]**  
-   * **Descripción:** Aplicación móvil o API REST para gestión de tareas automatizadas.
-   * **Tecnologías:** `Python`, `FastAPI`, `PostgreSQL`
-   * **Enlaces:** [📂 Código](https://github.com) | [🚀 Demo en vivo](https://tu-sitio-web.com)
+1. **[PLATAFORMA DE GESTION KENZIT]**  
+   * **Descripción:** Una plataforma diseña para la gestión de asistencias, trabajos, pagos, registros, etc.
+   * **Tecnologías:** `HTML5`, `CSS3`, `JavaScript`
+   * **Enlaces:** [📂 Código]( https://gestion.kenzitschool.com/ ) | [🚀 Demo en vivo](<img width="1599" height="762" alt="image" src="https://github.com/user-attachments/assets/bb5a0169-91e6-4b58-9389-bef8ce42a636" />
+)
 
 ---
 
 ### 📜 Certificaciones
-* 🎓 **[Nombre de la Certificación 1]** – *Emitido por [Institución, ej: Google, Udemy, Platzi]* ([Ver credencial](https://enlace-a-tu-certificado.com))
-* 🎓 **[Nombre de la Certificación 2]** – *Emitido por [Institución]* ([Ver credencial](https://enlace-a-tu-certificado.com))
+* 🎓 **[PLATAFORMA AZURE]** – ([https://enlace-a-tu-certificado.com](https://learn.microsoft.com/api/achievements/share/es-es/LEONARDOCAMPOSDAVIDJOSUE-2585/U7LREB43?sharingId=D72299CAFBA917AC)))
 
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-*(Estas tarjetas se actualizarán automáticamente con tu actividad real)*
 
 <!-- REPLAZA "tu-usuario" por tu nombre exacto de GitHub en los siguientes enlaces -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MrFlamas&show_iconse=tokyonight
+https://github-readme-stats.vercel.app/api?username=MrFlamas&show_icons=true&theme=tokyonight
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?rFlamas&layout=compact&theme=tokyonight
+https://github-readme-stats.vercel.app/api/top-langs/?username=MrFlamas&layout=compact&theme=tokyonight
 </p>
 
 ---
 
 ### 📬 Conéctate conmigo
-¿Tienes algún proyecto en mente o simplemente quieres saludar?
+Me quieres contratar o ver un momento mi perfil? Aquí tienes mi REY
 
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- **Twitter/X:** [@tu-usuario](https://x.com)
-- **Email:** tu-correo@email.com
+- **LinkedIn:** https://www.linkedin.com/in/david-leonardo-05442a43a/
+- **CORREO:** leonardocampos789000@gmail.com
